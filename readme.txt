@@ -1,4 +1,4 @@
 first line!
 Git is a distributed version control system!
-Git is a free software!
+Git is 来个汉字 a free software!
 this is a third modify!
