@@ -4,4 +4,4 @@ Git is 来个汉字 a free software!
 this is a third modify!
 test twice modify!
 second modify!
-create a new branch is quick!
+create a new branch is very quick!
